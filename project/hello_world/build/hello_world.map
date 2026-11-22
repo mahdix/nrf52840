@@ -1,0 +1,676 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_impure_data)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_malloc_r)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o) (__malloc_lock)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (__sread)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_fflush_r)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_lseek_r)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_read_r)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_write_r)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_close_r)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o) (errno)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o) (_free_r)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o) (_close)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o) (_lseek)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o) (_read)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o) (_write)
+/Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crti.o
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .data          0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .bss           0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .ARM.extab.text._ZL13display_digith.part.0
+                0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .ARM.extab.text._Z8delay_msm
+                0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .ARM.extab.text.startup.main
+                0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .ARM.extab.text.startup._GLOBAL__sub_I__Z8delay_msm
+                0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .text          0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+ .data          0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+ .bss           0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x10 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+ .data          0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/gcc_startup_nrf52840.o
+ .bss           0x00000000        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/gcc_startup_nrf52840.o
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x40 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3a /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000       0xf8 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x50 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x26 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x100 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xbc /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x38 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x98 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x38 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .text._close   0x00000000       0x10 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .gnu.warning._close
+                0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .debug_frame   0x00000000       0x20 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .text._lseek   0x00000000       0x10 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .gnu.warning._lseek
+                0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .debug_frame   0x00000000       0x20 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .text._read    0x00000000       0x10 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .gnu.warning._read
+                0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .debug_frame   0x00000000       0x20 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x1c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x00000000        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x20 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .text._write   0x00000000       0x10 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .gnu.warning._write
+                0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .debug_frame   0x00000000       0x20 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .ARM.attributes
+                0x00000000       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00026000         0x000c7000         xr
+RAM              0x20006000         0x0003a000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00000800                        __StackSize = 0x800
+                0x20040000                        PROVIDE (__StackTop = (ORIGIN (RAM) + LENGTH (RAM)))
+                0x2003f800                        PROVIDE (__StackLimit = (__StackTop - __StackSize))
+                0x20040000                        PROVIDE (__stack = __StackTop)
+                0x00026000                        __flash_arduino_start = ORIGIN (FLASH)
+                0x000ed000                        __flash_arduino_end = (ORIGIN (FLASH) + LENGTH (FLASH))
+
+.text           0x00026000      0x710
+ *(.isr_vector)
+ .isr_vector    0x00026000      0x200 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/gcc_startup_nrf52840.o
+                0x00026000                __isr_vector
+ *(.text*)
+ .text.deregister_tm_clones
+                0x00026200       0x1c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.register_tm_clones
+                0x0002621c       0x24 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x00026240       0x28 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x00026268       0x24 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0002628c       0x7c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                0x0002628c                _stack_init
+                0x00026294                _mainCRTStartup
+                0x00026294                _start
+ .text._ZL13display_digith.part.0
+                0x00026308       0x3c /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .text._Z8delay_msm
+                0x00026344       0x26 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+                0x00026344                delay_ms(unsigned long)
+ *fill*         0x0002636a        0x2 
+ .text.startup.main
+                0x0002636c       0xb4 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+                0x0002636c                main
+ .text.startup._GLOBAL__sub_I__Z8delay_msm
+                0x00026420       0x64 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .text.nrf52_errata_36
+                0x00026484       0x30 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+ .text.nrf52_errata_98
+                0x000264b4       0x16 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+ *fill*         0x000264ca        0x2 
+ .text.SystemInit
+                0x000264cc      0x154 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+                0x000264cc                SystemInit
+ .text          0x00026620       0x54 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/gcc_startup_nrf52840.o
+                0x00026620                Reset_Handler
+                0x00026660                NMI_Handler
+                0x00026662                HardFault_Handler
+                0x00026664                MemoryManagement_Handler
+                0x00026666                BusFault_Handler
+                0x00026668                UsageFault_Handler
+                0x0002666a                SVC_Handler
+                0x0002666c                DebugMon_Handler
+                0x0002666e                PendSV_Handler
+                0x00026670                SysTick_Handler
+                0x00026672                QDEC_IRQHandler
+                0x00026672                TIMER3_IRQHandler
+                0x00026672                PWM3_IRQHandler
+                0x00026672                FPU_IRQHandler
+                0x00026672                USBD_IRQHandler
+                0x00026672                SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+                0x00026672                UARTE0_UART0_IRQHandler
+                0x00026672                TIMER4_IRQHandler
+                0x00026672                CRYPTOCELL_IRQHandler
+                0x00026672                I2S_IRQHandler
+                0x00026672                SWI4_EGU4_IRQHandler
+                0x00026672                TIMER0_IRQHandler
+                0x00026672                UARTE1_IRQHandler
+                0x00026672                TIMER1_IRQHandler
+                0x00026672                SPIM3_IRQHandler
+                0x00026672                PWM2_IRQHandler
+                0x00026672                ECB_IRQHandler
+                0x00026672                SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
+                0x00026672                Default_Handler
+                0x00026672                SAADC_IRQHandler
+                0x00026672                CCM_AAR_IRQHandler
+                0x00026672                WDT_IRQHandler
+                0x00026672                SWI5_EGU5_IRQHandler
+                0x00026672                RNG_IRQHandler
+                0x00026672                RTC2_IRQHandler
+                0x00026672                PWM0_IRQHandler
+                0x00026672                SWI3_EGU3_IRQHandler
+                0x00026672                RTC1_IRQHandler
+                0x00026672                SWI1_EGU1_IRQHandler
+                0x00026672                SPIM2_SPIS2_SPI2_IRQHandler
+                0x00026672                NFCT_IRQHandler
+                0x00026672                MWU_IRQHandler
+                0x00026672                QSPI_IRQHandler
+                0x00026672                TIMER2_IRQHandler
+                0x00026672                COMP_LPCOMP_IRQHandler
+                0x00026672                RTC0_IRQHandler
+                0x00026672                SWI0_EGU0_IRQHandler
+                0x00026672                SWI2_EGU2_IRQHandler
+                0x00026672                GPIOTE_IRQHandler
+                0x00026672                PWM1_IRQHandler
+                0x00026672                POWER_CLOCK_IRQHandler
+                0x00026672                RADIO_IRQHandler
+                0x00026672                PDM_IRQHandler
+                0x00026672                TEMP_IRQHandler
+ .text.exit     0x00026674       0x24 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+                0x00026674                exit
+ .text.memset   0x00026698       0x10 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+                0x00026698                memset
+ .text.__libc_init_array
+                0x000266a8       0x48 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                0x000266a8                __libc_init_array
+ .text._exit    0x000266f0        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                0x000266f0                _exit
+ *(.init)
+ .init          0x000266f4        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x000266f4                _init
+ .init          0x000266f8        0x8 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x00026700        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x00026700                _fini
+ .fini          0x00026704        0x8 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ *(.eh_frame*)
+ .eh_frame      0x0002670c        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x0002670c        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtend.o
+
+.glue_7         0x00026710        0x0
+ .glue_7        0x00026710        0x0 linker stubs
+
+.glue_7t        0x00026710        0x0
+ .glue_7t       0x00026710        0x0 linker stubs
+
+.vfp11_veneer   0x00026710        0x0
+ .vfp11_veneer  0x00026710        0x0 linker stubs
+
+.v4_bx          0x00026710        0x0
+ .v4_bx         0x00026710        0x0 linker stubs
+
+.iplt           0x00026710        0x0
+ .iplt          0x00026710        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00026710                        __exidx_start = .
+
+.ARM.exidx      0x00026710        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00026710        0x8 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                                 0x10 (size before relaxing)
+ .ARM.exidx.text._ZL13display_digith.part.0
+                0x00026718        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z8delay_msm
+                0x00026718        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.startup.main
+                0x00026718        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.startup._GLOBAL__sub_I__Z8delay_msm
+                0x00026718        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+                                  0x8 (size before relaxing)
+                0x00026718                        __exidx_end = .
+                0x00026718                        __etext = .
+
+.rel.dyn        0x00026718        0x0
+ .rel.iplt      0x00026718        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.data           0x20006000       0x10 load address 0x00026718
+                0x20006000                        __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20006000        0x4 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+                0x20006000                SystemCoreClock
+                0x20006004                        . = ALIGN (0x4)
+                0x20006004                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x20006004                        PROVIDE (__preinit_array_end = .)
+                0x20006004                        . = ALIGN (0x4)
+                0x20006004                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x20006004        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .init_array    0x20006008        0x4 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+                0x2000600c                        PROVIDE (__init_array_end = .)
+                0x2000600c                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x2000600c        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x20006010                        . = ALIGN (0x4)
+                0x20006010                        __data_end__ = .
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+LOAD /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+LOAD /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/gcc_startup_nrf52840.o
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+START GROUP
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtn.o
+START GROUP
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+
+.tm_clone_table
+                0x20006010        0x0 load address 0x00026728
+ .tm_clone_table
+                0x20006010        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x20006010        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtend.o
+
+.igot.plt       0x20006010        0x0 load address 0x00026728
+ .igot.plt      0x20006010        0x0 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x20006010                        . = ALIGN (0x4)
+
+.svc_data       0x20006010        0x0
+                [!provide]                        PROVIDE (__start_svc_data = .)
+ *(.svc_data)
+                [!provide]                        PROVIDE (__stop_svc_data = .)
+
+.fs_data        0x20006010        0x0
+                [!provide]                        PROVIDE (__start_fs_data = .)
+ *(.fs_data)
+                [!provide]                        PROVIDE (__stop_fs_data = .)
+
+.bss            0x20006010       0x50 load address 0x00026728
+                0x20006010                        . = ALIGN (0x4)
+                0x20006010                        __bss_start__ = .
+ *(.bss*)
+ .bss.completed.1
+                0x20006010        0x1 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *fill*         0x20006011        0x3 
+ .bss.object.0  0x20006014       0x18 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss._ZL6SEG_P1
+                0x2000602c        0x4 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .bss._ZL6SEG_P0
+                0x20006030        0x4 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .bss._ZL5DIGIT
+                0x20006034       0x28 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .bss.__stdio_exit_handler
+                0x2000605c        0x4 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x2000605c                __stdio_exit_handler
+ *(COMMON)
+                0x20006060                        . = ALIGN (0x4)
+                0x20006060                        __bss_end__ = .
+
+.heap           0x20006060    0x397a0 load address 0x00026778
+                0x20006060                        __HeapBase = .
+                0x20006060                        __end__ = .
+                0x20006060                        PROVIDE (end = .)
+ *(.heap*)
+                0x2003f800                        . = ALIGN (__StackLimit)
+ *fill*         0x20006060    0x397a0 
+                0x2003f800                        __HeapLimit = .
+                0x00000001                        ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x00000001                        ASSERT ((__StackLimit >= __bss_end__), region RAM overflowed with stack)
+OUTPUT(/Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/hello_world.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000076       0x34 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+ .ARM.attributes
+                0x000000aa       0x34 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+ .ARM.attributes
+                0x000000de       0x20 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/gcc_startup_nrf52840.o
+ .ARM.attributes
+                0x000000fe       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000132       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000166       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x0000019a       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x000001ce       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000202       0x34 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000236       0x22 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+.comment        0x00000000       0x46
+ .comment       0x00000000       0x46 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/main.o
+                                 0x47 (size before relaxing)
+ .comment       0x00000046        0x0 /Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/system_nrf52840.o
+                                 0x47 (size before relaxing)
+
+.debug_line_str
+                0x00000000       0xf7
+ .debug_line_str
+                0x00000000       0xf7 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+
+.debug_frame    0x00000000      0x1d8
+ .debug_frame   0x00000000       0x28 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000028      0x144 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x0000016c       0x20 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x0000018c       0x2c /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_frame   0x000001b8       0x20 /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)

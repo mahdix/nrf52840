@@ -1,0 +1,28 @@
+CMakeFiles/hello_world.dir/Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/system_nrf52840.c.obj: \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/system_nrf52840.c \
+ /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/lib/gcc/arm-none-eabi/15.3.1/include/stdint.h \
+ /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/stdint.h \
+ /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/machine/_default_types.h \
+ /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/features.h \
+ /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/_newlib_version.h \
+ /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/_intsup.h \
+ /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/arm-none-eabi/include/sys/_stdint.h \
+ /Volumes/Data/bin/arm-gnu-toolchain/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi/lib/gcc/arm-none-eabi/15.3.1/include/stdbool.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/nrf.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/nrf52840.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/cmsis/CMSIS/Core/Include/core_cm4.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/cmsis/CMSIS/Core/Include/cmsis_version.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/cmsis/CMSIS/Core/Include/cmsis_compiler.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/cmsis/CMSIS/Core/Include/cmsis_gcc.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/cmsis/CMSIS/Core/Include/mpu_armv7.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/system_nrf52840.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/system_nrf.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/nrf52840_bitfields.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/nrf51_to_nrf52840.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/nrf52_to_nrf52840.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/compiler_abstraction.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/nrf_erratas.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/nrf51_erratas.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/nrf52_erratas.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/nrf53_erratas.h \
+ /Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/nordic/nrfx/mdk/nrf91_erratas.h

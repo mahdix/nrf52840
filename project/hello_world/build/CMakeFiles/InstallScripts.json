@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/mahdi.m/mahdi/msecure/dev/nrf52840/project/hello_world/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/src/gcc_startup_nrf52840.S
+startup_config.h
+/Users/mahdi.m/mahdi/msecure/dev/nrf52840/toolchain/src/startup_config.h
+
